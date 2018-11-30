@@ -1,0 +1,25 @@
+{
+  "name": "lingui-phraseapp",
+  "version": "0.0.1",
+  "description": "The Phraseapp In-Context Editor using lingui",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "add-locale": "lingui add-locale",
+    "extract": "lingui extract",
+    "compile": "lingui compile"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.6.0",
+    "jest": "^23.6.0",
+    "regenerator-runtime": "^0.13.1"
+  },
+  "devDependencies": {
+    "@lingui/cli": "^2.7.2",
+    "@lingui/core": "^2.7.2",
+    "babel-preset-env": "^1.7.0"
+  }
+}
