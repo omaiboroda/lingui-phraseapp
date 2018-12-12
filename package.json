@@ -1,6 +1,6 @@
 {
   "name": "lingui-phraseapp",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The Phraseapp In-Context Editor using lingui",
   "main": "src/index.js",
   "scripts": {
