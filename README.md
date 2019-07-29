@@ -25,3 +25,5 @@ For that you have `initializePhraseAppEditor(config)` and `transformCatalog(cata
     const i18n = setupI18n({ catalogs: catalogInEditorFormat })
     ...
 ```
+## More details
+[Editing web translations right in your browser](https://oles.dev/posts/editing-web-translations-right-in-your-browser)
